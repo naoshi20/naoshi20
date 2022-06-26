@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-<h3 align="left">Connect with me: [on Twitter](https://twitter.com/naoshi_st_paul)</h3>
+<h3 align="left">Connect with me: <a href="https://twitter.com/naoshi_st_paul">on Twitter</a></h3>
 <p align="left">
 </p>
 
