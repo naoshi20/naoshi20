@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naoshi</h1>
+<h1 align="center">Hi, I'm Naoshi</h1>
 <h3 align="center">A passionate Backend developer from Japan</h3>
 
 - 🌱 I’m currently using **Angular** on a project.
