@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naoshi</h1>
 <h3 align="center">A passionate Backend developer from Japan</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently using **Angular** on a project.
+- 🌱 I have basic skiils of  **Django**.
 
 <h3 align="left">Connect with me: <a href="https://www.instagram.com/naoshi5010/">on Instagram</a></h3>
 <p align="left">
@@ -11,6 +12,7 @@
 <p align="left"> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="heroku" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
