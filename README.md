@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Japan</h3>
 
 - 🌱 I’m currently using **Angular** on a project.
-- 🌿 I have basic skiils of  **Django** amd Data Analytics.
+- 🌿 I have basic skiils of  **Django** and Data Science.
 
 <h3 align="left">Connect with me: <a href="https://www.instagram.com/naoshi5010/">on Instagram</a></h3>
 <p align="left">
