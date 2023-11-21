@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naoshi</h1>
-<h3 align="center">A passionate Backend developer from Japan</h3>
+<h3 align="center">A passionate Fullstuck developer from Japan</h3>
 
 - 🌿 I’m currently using **React and Go**.
 
